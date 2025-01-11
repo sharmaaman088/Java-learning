@@ -1,0 +1,47 @@
+JDK (Java Development Kit): A complete toolkit for developing Java applications, including JRE, compiler, debugger, and tools.
+JRE (Java Runtime Environment): A runtime environment for executing Java applications, containing the JVM and standard libraries, but no development tools.
+ 
+ 
+ #4 How Java Works 
+
+Java code is platfrom independent since it runs on JVM 
+
+
+but jvm is platform independent but JVM takes code in Byte
+
+We create a java code 
+
+compiler convert it into byte code for jvm 
+
+And Byte code runs on the jvm
+
+
+
+A project can be big having a hundreds of file , but jvm needs one file to execute
+
+the execution starts with Main and it must have specific signature
+
+main looks for signature 
+ public static void main(String[] args)
+
+ we write code the compiler compiles and the java code becomes BYTE FILE 
+
+ Jvm takes this byte code and run it 
+
+ the jvm looks for the main method first 
+
+ we can compile the code using javac Hello.java
+
+ IT WILL return the byte code file 
+
+
+ jre has the libraries and jvm is responsible to run them 
+
+
+ we install jdk 
+
+ jdk has jre 
+
+ jre has jvm
+
+ to run only jre and jvm is requried 
