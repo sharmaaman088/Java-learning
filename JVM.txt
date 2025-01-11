@@ -45,3 +45,15 @@ main looks for signature
  jre has jvm
 
  to run only jre and jvm is requried 
+
+
+We solve real world problem in virtual world 
+
+
+data is neeeded to be stored 
+
+2 types of data 
+
+permanent and variable 
+
+variable needed to be stored temp
