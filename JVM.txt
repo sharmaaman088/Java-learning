@@ -57,3 +57,45 @@ data is neeeded to be stored
 permanent and variable 
 
 variable needed to be stored temp
+
+
+
+printlnn is print  in new line 
+
+
+Literals are the values assigned to Variables 
+
+Take the data types x
+
+
+ #7 Literal in Java 
+
+
+we can put hexadecimal and binary numbers in int 
+
+we can use _ for counting 100_000
+
+
+#8 Type Conversion in Java
+
+you can assign value of byte to integer but for integer to byte we have to cast by 
+
+b = (byte)a 
+
+
+conversion is automatically conversion and casting is explicit conversion 
+
+
+Type Promotion in Java refers to the process where a smaller data type is automatically converted (promoted) to a larger data type when performing operations to prevent data loss.
+
+
+*check type promotion
+
+
+#9 Arithmetic Operators in Java
+
+
+
+
+>>>
+
