@@ -99,3 +99,69 @@ Type Promotion in Java refers to the process where a smaller data type is automa
 
 >>>
 
+#12 If else in Java
+
+1.conditional statement
+
+
+CA
+
+  
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+    
+
+  
+
+  
+    
+
+    
+
+    
+
+  
+
+  
+    
+      
+
+      
+
+    
+    
+      
+
+      
+
+    
+  
+#14 Ternary Operator in Java 
+A shorthand for if-else statements.
+result = (condition) ? valueIfTrue : valueIfFalse;
+
+Ternary Operator (? :)
+
+
+
+
+ #16 Need For Loop in Java 
+
+We need to repeat the something again and again 
+
+WHILE 
+DO WHILE 
+FOR LOOP 
+
+
+#17 While Loop in Java
+
